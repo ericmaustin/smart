@@ -1,0 +1,26 @@
+# github.com/davecgh/go-spew v1.1.0
+github.com/davecgh/go-spew/spew
+# github.com/dswarbrick/smart v0.0.0-20190505152634-909a45200d6d
+## explicit
+github.com/dswarbrick/smart
+github.com/dswarbrick/smart/ata
+github.com/dswarbrick/smart/drivedb
+github.com/dswarbrick/smart/ioctl
+github.com/dswarbrick/smart/megaraid
+github.com/dswarbrick/smart/nvme
+github.com/dswarbrick/smart/scsi
+github.com/dswarbrick/smart/utils
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/stretchr/testify v1.7.0
+## explicit
+github.com/stretchr/testify/assert
+# golang.org/x/sys v0.0.0-20210611083646-a4fc73990273
+## explicit
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+# gopkg.in/yaml.v2 v2.4.0
+## explicit
+gopkg.in/yaml.v2
+# gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
+gopkg.in/yaml.v3
